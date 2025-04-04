@@ -1,0 +1,4 @@
+def SampleScript():
+  print("Sample Script")
+
+SampleScript()
